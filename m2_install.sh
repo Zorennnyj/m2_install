@@ -100,8 +100,8 @@ chmod 777 -R var
 echo "Magento $version Installation - End.";
 echo "Magento $version Installed:";
 echo "UserEnd url - $base_url";
-echo "AdminEnd url - $base_url$backend_frontname"
+echo "AdminEnd url - $base_url$backend_frontname";
 echo "Admin User Login - $admin_user";
 echo "Admin User Password - $admin_password";
-echo "Welcome to Magento 2 PAINFUL world! ^_^"
-echo "Submit your ideas for improvements here --> "
+echo "Welcome to Magento 2 PAINFUL world! ^_^";
+echo "Submit your ideas for improvements here --> https://github.com/Zorennnyj/m2_install";
